@@ -2,11 +2,11 @@
 
 ### Day 1: November 17, 2024.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learn More about CSS Pseudo Selectors by Building a Balanced Sheet on FCC.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I just started this challenge today and I'm loving the overall feeling of being a part of something bigger.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** (https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet/step-14).
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
